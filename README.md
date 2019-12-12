@@ -1,12 +1,2 @@
 # GymFit
-![alt text](https://banzai.kz/images/00/ab13ee07caeeb12aa7210431c40f6cec.jpg)
-Gym Administration Tool
-Inactive lifestyle may result many problems with health. It is very important to keep a balance between life at the desk and doing sports. We are a team supporting an active lifestyle and during our trip in world of sport activities, we visited many gyms, pools and sport classes and we have noticed many disadvantages in the accounting systems of this organisations. The accounting system in such institutions is needed in order to keep track of the company's customers who attend various sports classes. Some customers buy unlimited visits, some attend classes a certain number of times over a period. There are still those who make one-time visits. All of these visits should be recorded for subsequent accounting transactions. When we looked for them, it were bad designed awkward apps with bunch of bugs and it took over 2 minutes to mark client that he came. When we talked with personnel, they responded that this is a very inconvenient apps and it forces them to do many different actions and delays time. Due to the lack of data upload functions and the lack of integration with accounting systems, they have to mark a person in two or three different programs and search them by their names, and we know how many exotic names we have in out multinational country.
-Our idea is to develop a user friendly attendance system that will be easy for out-of-box integration and will meet all customer requirements. We discussed with the team and decided that our program should be:
-●	Easy to install and serve. Installation should not take much time and it should be easy to debug
-●	Fast. The marking process and app should be quick in use.
-●	Beautiful. Design is one of the important factors of our app.
-●	App must have data uploading feature and function for choosing period by which you will download data. 
-●	Customizable. The owner must have the ability to change the logo and include some branding.
-We have determined that our program is suitable for use not only for sports companies, but also for any company where customer, employee accounting is required, so our target group are companies providing various services.
-Similar projects are already available on the Kazakhstan market, such as: usu.kz and servitum.net. The fact is that all these companies are foreign franchises and we all know what nuances such companies has. To solve technical issues with such companies usually takes about 2-3 days and in a business environment this is an enormous time that may cause serious losses. We offer great service and  great functionality.
+![alt text](https://i.ibb.co/NKTNkP4/image.png)
